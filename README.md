@@ -1,8 +1,8 @@
-# A Node/Express Project Setup
+# Node/Express Project Setup Boilerplate
 
 Start your Node/Express project without spending time on setting up. This project setup is equiped with ESLint(Airbnb rules), JWT, Prettier, MongoDB and husky.
 
-Just clone and start coding.
+Just clone and start coding. ( Don't forget to start mongoDB server)
 
 ##### step 1
 
